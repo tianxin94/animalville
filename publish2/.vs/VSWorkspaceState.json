@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Empresa",
+    "\\Empresa\\puzzle",
+    "\\Empresa\\puzzle\\templates",
+    "\\Empresa\\puzzle\\templates\\puzzle",
+    "\\Empresa\\puzzle\\templates\\registration",
+    "\\Empresa\\static",
+    "\\Empresa\\static\\css",
+    "\\Empresa\\static\\css\\window",
+    "\\Empresa\\static\\images"
+  ],
+  "SelectedNode": "\\Empresa\\puzzle\\templates\\puzzle\\grow.html",
+  "PreviewInSolutionExplorer": false
+}
